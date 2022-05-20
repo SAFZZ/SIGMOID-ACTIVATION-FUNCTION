@@ -1,5 +1,5 @@
 ### EX NO: 05
-### DATE: 18.04.2022
+### DATE: 29.04.2022
 # <p align="center"> SIGMOID ACTIVATION FUNCTION</P>
   
 ## Aim:
@@ -21,6 +21,8 @@
 * The derivative of the function is f'(x) = sigmoid(x)*(1-sigmoid(x)).
 
 * The output of the logistic function is not symmetric around zero. So the output of all the neurons will be of the same sign. This makes the training of the neural network more difficult and unstable.
+
+</br>
 
 ## Algorithm
 1. Import packages
@@ -92,10 +94,8 @@ if __name__=="__main__":
 ```
 
 ## Output:
-![Screenshot_640](https://user-images.githubusercontent.com/75235455/168613096-c802bca1-1f74-43be-82db-0ccc055239b0.png)
+![Exp5_NN](https://user-images.githubusercontent.com/77089743/168772071-70e71199-d707-48eb-abd4-89218f26f54a.PNG)
 
 
 ## Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
-
-
